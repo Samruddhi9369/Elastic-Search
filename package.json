@@ -1,0 +1,16 @@
+{
+  "name": "elastic-node",
+  "version": "1.0.0",
+  "description": "A simple application to build real time search engine using elastic search, node.js and vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "elasticsearch": "^15.0.0",
+    "express": "^4.16.3"
+  }
+}
